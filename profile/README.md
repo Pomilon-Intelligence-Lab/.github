@@ -16,7 +16,7 @@ I use this "Lab" to host:
 
 | Project | Type | Description |
 | :--- | :--- | :--- |
-| **[Aetheris](https://huggingface.co/Pomilon-Lab/Aetheris)** | **LLM** | A 294M parameter Hybrid Mamba-MoE model. My attempt at smashing two architectures together to see what happens. |
+| **[Aetheris](https://huggingface.co/pomilon-lab/Aetheris)** | **LLM** | A 294M parameter Hybrid Mamba-MoE model. My attempt at smashing two architectures together to see what happens. |
 
 *(There are other repositories here, but they are currently private/classified pending further stability tests. 🤫)*
 
