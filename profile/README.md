@@ -2,6 +2,8 @@
 
 **A fancy name for my personal AI experiments.**
 
+> **IMPORTANT**: Treat repositories you find here as artifacts/experiments, not finished products or frameworks. Things may not work as intended or as claimed because they might still be in development/active research.
+
 Welcome to the **Pomilon Intelligence Lab**. Despite the official-sounding name, this isn't a company or a research team. It's just me (**[@pomilon](https://github.com/pomilon)**) organizing my chaotic "learning-by-doing" projects so they don't clutter up my personal profile.
 
 ### 👤 About
